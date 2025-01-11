@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links: []
+issue_templates:
+  - name: 문제 풀이 공유
+    description: 문제 풀이를 공유하고 피드백을 받는 템플릿입니다.
+    title: "[문제풀이] 문제 이름"
+    labels: ["풀이", "discussion"]
+    assignees: []
+    file: 문제 풀이 공유.md
